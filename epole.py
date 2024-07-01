@@ -8,3 +8,13 @@ print("hello oppaiii")
 print("hello oppaiii")
 print("hello oppaiii")
 print("hello oppaiii")
+
+
+print('hentai')
+print('hentai')
+print('hentai')
+print('hentai')
+print('hentai')
+print('hentai')
+print('hentai')
+print('hentai')
